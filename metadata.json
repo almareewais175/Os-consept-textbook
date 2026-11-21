@@ -1,0 +1,8 @@
+{
+  "name": "OS Concepts — Interactive Operating Systems Textbook",
+  "description": "An interactive educational guide to Operating Systems based on Operating System Concepts (10th Edition) by Silberschatz et al., featuring step-by-step explanations, real-world analogies, live simulations, concise summaries, and review quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
